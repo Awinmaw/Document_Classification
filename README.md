@@ -3,4 +3,4 @@
 
 ### Screenshot
 ## Sample technology document
-![classification page](doc_classification (2).png)
+![home page](doc_classification (2).png)
