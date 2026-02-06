@@ -1,4 +1,4 @@
-# 🧠 Document Classification System Using Machine Learning
+# Document Classification System Using Bag-of-Words
 [📄 View Source on GitHub](https://github.com/Awinmaw/Document_Classification/blob/main/DC.ipynb) | [💻 Run on Colab](https://colab.research.google.com/github/Awinmaw/Document_Classification/blob/main/DC.ipynb)
 
 ## Abstract
